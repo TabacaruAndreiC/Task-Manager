@@ -1,0 +1,53 @@
+﻿<Window x:Class="TaskManager.View.CategoryWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TaskManager.View"
+        mc:Ignorable="d"
+        Title="CategoryWindow" Height="761" Width="550">
+    <Grid Height="751" VerticalAlignment="Top">
+        <TextBlock Margin="31,75,435,652" Text="Category Name:" />
+        <TextBox Name ="txtNume" Margin="141,73,189,652" Text="{Binding TaskCategory.CategoryName}" TextChanged="txtNume_TextChanged"/>
+        <ListBox Name="lbTasks" Margin="30,204,0,356" SelectionMode="Single" 
+                 ItemsSource="{Binding TaskCategory.TaskCollection}"
+                 Width="480" HorizontalAlignment="Left">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <WrapPanel>
+                        <TextBox Name="txtNume"  Text="{Binding TaskName}" Height="31" Width="120"/>
+                        <TextBox Name="txtDescriere" Text="{Binding TaskDescription}" Height="31" Width="120"/>
+                    </WrapPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        <ListBox Name="lbSubCategorys" Margin="30,482,40,69" SelectionMode="Single" 
+                 ItemsSource="{Binding TaskCategory.SubCategoryCollection}"
+                 Height="200">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <WrapPanel>
+                        <TextBox Name="txtNume"  Text="{Binding CategoryName}" Height="31" Width="120"/>
+                        <!--<TextBox Name="txtDescriere" Text="{Binding TaskDescription}" Height="31" Width="120"/>-->
+                    </WrapPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Button Name="btnAdd" Content="Add Task" Margin="30,133,416,587" 
+                Click="btn_AddTask_Click" 
+                Height="31"/>
+
+        <Button Name="btnDelete" Content="Del Task" Margin="185,133,270,587" 
+                Click="btn_DeleteTask_Click" 
+                Height="31"/>
+
+        <Button Name="btnAddSubCat" Content="Add Category" Margin="31,427,416,293" 
+                Click="btn_AddCategory_Click" 
+                Height="31"/>
+
+        <Button Name="btnDeleteSubCat" Content="Del Category" Margin="185,427,270,293" 
+                Click="btn_DeleteCategory_Click" 
+                Height="31"/>
+    </Grid>
+</Window>

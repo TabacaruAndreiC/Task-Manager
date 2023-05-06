@@ -1,0 +1,140 @@
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.AssemblyReference.cache
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\obj\Debug\MainWindow.g.cs
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\obj\Debug\App.g.cs
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.cache
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.lref
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\obj\Debug\MainWindow.baml
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.g.resources
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\bin\Debug\CommonServiceLocator.dll
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CopyComplete
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\obj\Debug\View\TaskManager.g.cs
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\obj\Debug\View\TaskManager.baml
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\obj\Debug\View\CategoryWindow.g.cs
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\obj\Debug\View\CategoryWindow.baml
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\obj\Debug\View\FindTaskView.g.cs
+C:\Users\podol\Desktop\MVP TaskManager\TaskManager\TaskManager\obj\Debug\View\FindTaskView.baml
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.AssemblyReference.cache
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.SuggestedBindingRedirects.cache
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\obj\Debug\MainWindow.g.cs
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\obj\Debug\View\CategoryWindow.g.cs
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\obj\Debug\View\FindTaskView.g.cs
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\obj\Debug\View\TaskManager.g.cs
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\obj\Debug\App.g.cs
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.cache
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.lref
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\bin\Debug\CommonServiceLocator.dll
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\bin\Debug\System.Windows.Interactivity.dll
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\obj\Debug\MainWindow.baml
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\obj\Debug\View\CategoryWindow.baml
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\obj\Debug\View\FindTaskView.baml
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\obj\Debug\View\TaskManager.baml
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.g.resources
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Facultate\Anu2 Sem2\MVP\MVP TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CopyComplete
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\bin\Debug\CommonServiceLocator.dll
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\bin\Debug\System.Windows.Interactivity.dll
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.AssemblyReference.cache
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.SuggestedBindingRedirects.cache
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\MainWindow.g.cs
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\View\CategoryWindow.g.cs
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\View\FindTaskView.g.cs
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\View\TaskManager.g.cs
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\App.g.cs
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.cache
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.lref
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\MainWindow.baml
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\View\CategoryWindow.baml
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\View\FindTaskView.baml
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\View\TaskManager.baml
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\TaskManager.g.resources
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CopyComplete
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+C:\Facultate\Anu2 Sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\bin\Debug\CommonServiceLocator.dll
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.dll
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\bin\Debug\System.Windows.Interactivity.dll
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.xml
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.AssemblyReference.cache
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.SuggestedBindingRedirects.cache
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\MainWindow.g.cs
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\View\CategoryWindow.g.cs
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\View\FindTaskView.g.cs
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\View\TaskManager.g.cs
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\App.g.cs
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.cache
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.lref
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\MainWindow.baml
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\View\CategoryWindow.baml
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\View\FindTaskView.baml
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\View\TaskManager.baml
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\TaskManager.g.resources
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CopyComplete
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+D:\An2\sem2\MVP\TaskManagerMVP2\TaskManager\TaskManager\obj\Debug\TaskManager.pdb

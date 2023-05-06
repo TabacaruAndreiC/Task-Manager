@@ -1,0 +1,105 @@
+﻿<UserControl x:Class="TaskManager.View.TaskManager"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:TaskManager.View"
+             xmlns:viewModels="clr-namespace:TaskManager.ViewModel"
+             mc:Ignorable="d" 
+             d:DesignHeight="720" d:DesignWidth="1280">
+    <UserControl.DataContext>
+        <viewModels:TaskListTreeViewModel/>
+    </UserControl.DataContext>
+
+
+    <Grid>
+        <!--Column Definition-->
+        <Grid.ColumnDefinitions>
+            <!--TaskListTree Zone-->
+            <ColumnDefinition Width="400px"/>
+            <!--Task Details Zone-->
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!--Row Definition-->
+        <Grid.RowDefinitions>
+            <!--Menu-->
+            <RowDefinition Height="20"/>
+            <!--Tasks From A List-->
+            <RowDefinition Height="510"/>
+            <!--Details About Task-->
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <!--TaskListTree Zone-->
+        <StackPanel Grid.Column="0" Grid.Row="1" Margin="30,30,30,166">
+            <Grid>
+                <TreeView Name="treeView" ItemsSource="{Binding CategoryCollection}" >
+                    <TreeView.ItemTemplate>
+                        <HierarchicalDataTemplate ItemsSource="{Binding SubCategoryCollection}" >
+                            <TextBlock Text="{Binding CategoryName}" FontSize="25"/>
+                        </HierarchicalDataTemplate>
+                    </TreeView.ItemTemplate>
+                </TreeView>
+            </Grid>
+        </StackPanel>
+
+
+        <!--CategoryTaskList Zone-->
+        <StackPanel Grid.Column="1" Grid.Row="1" Margin="30,30,30,30">
+            <DataGrid
+                AutoGenerateColumns="False"
+                Name="DaGrid"
+                DataContext="{Binding ElementName=treeView, Path=SelectedItem}"
+                ItemsSource="{Binding TaskCollection}" Height="437" SelectionChanged="DaGrid_SelectionChanged">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Task Name" Binding="{Binding TaskName}" Width="*"/>
+                    <DataGridTextColumn Header="Priority" Binding="{Binding TaskPriority}" Width="*"/>
+                    <DataGridTemplateColumn Header="Task Deadline"  Width="*">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <DatePicker Text="{Binding TaskDeadline, StringFormat={}{0:dd/MM/yyyy}}" />
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                    <DataGridCheckBoxColumn Header="Task Status" Binding="{Binding IsCompleted}" Width="*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+
+
+        <!--TaskDescription Zone-->
+        <StackPanel Grid.Column="1" Grid.Row="2" Margin="30,30,30,30">
+            <TextBox
+                FontSize="16"
+                DataContext="{Binding ElementName=DaGrid, Path=SelectedItem}"
+                Text="{Binding TaskDescription}" Height="154"/>
+        </StackPanel>
+
+        
+        <!--Menu Zone-->
+        <Menu Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="0">
+            <MenuItem Header="File">
+                
+
+                <MenuItem Header="Open"/>
+                <MenuItem Header="Save" Click="btnSave_Click"/>
+                <MenuItem Header="Exit"/>
+            </MenuItem>
+            <MenuItem Header="Category" Click="MenuItem_Click">
+                <MenuItem Header="New" Click="btnAdd_Click"/>
+                <MenuItem Header="Change" Click="btnChange_Click"/>
+                <MenuItem Header="Move Up" Click="btnMoveUp_Click"/>
+                <MenuItem Header="Move Down" Click="btnMoveDown_Click"/>
+                <MenuItem Header="Delete" Click="btnDelete_Click"/>
+            </MenuItem>
+            <MenuItem Header="View">
+                <!--<MenuItem Header="View All Tasks"/>-->
+                <MenuItem Header="Search Task" Click="btnSearchTask"/>
+            </MenuItem>
+            <MenuItem Header="Help">
+                <MenuItem Header="About"/>
+            </MenuItem>
+        </Menu>
+    </Grid>
+</UserControl>

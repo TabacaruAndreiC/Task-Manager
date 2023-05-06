@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<categories>
+  <category name="Kid birthday">
+    <description>Default Category Description</description>
+    <tasks>
+      <task name="buy cake" priority="High">
+        <description>chocolate cake</description>
+        <deadline>2023-05-02</deadline>
+      </task>
+    </tasks>
+    <subcategories>
+      <subcategory name="Place">
+        <description>Default Category Description</description>
+        <tasks>
+          <task name="jjknnlknlnbljbkjb" priority="Low">
+            <description>Default Task Description</description>
+            <deadline>2023-05-02</deadline>
+          </task>
+          <task name="rezervareeee" priority="High">
+            <description>Default Task Description</description>
+            <deadline>2023-05-02</deadline>
+          </task>
+        </tasks>
+      </subcategory>
+    </subcategories>
+  </category>
+  <category name="Personal">
+    <description>Tasks related to personal life</description>
+    <tasks>
+      <task name="Go for a run" priority="Low">
+        <description>Go for a run in the park</description>
+        <deadline>2023-05-02</deadline>
+      </task>
+      <task name="Buy groceries" priority="Low">
+        <description>Buy groceries for the week</description>
+        <deadline>2023-05-02</deadline>
+      </task>
+      <task name="task 1 " priority="Medium">
+        <description>Default Task Description</description>
+        <deadline>2023-05-02</deadline>
+      </task>
+    </tasks>
+    <subcategories>
+      <subcategory name="Health">
+        <description>Tasks related to personal health</description>
+        <tasks>
+          <task name="Schedule a checkup" priority="Low">
+            <description>Schedule an annual checkup with the doctor</description>
+            <deadline>2023-05-02</deadline>
+          </task>
+        </tasks>
+      </subcategory>
+      <subcategory name="Finance">
+        <description>Tasks related to personal finances</description>
+        <tasks>
+          <task name="Pay bills" priority="Medium">
+            <description>Pay bills for the month</description>
+            <deadline>2023-05-02</deadline>
+          </task>
+          <task name="Create a budget fast " priority="High">
+            <description>Create a budget for the month</description>
+            <deadline>2023-05-02</deadline>
+          </task>
+          <task name="jk kj kj kj" priority="Low">
+            <description>Default Task Description</description>
+            <deadline>2023-05-02</deadline>
+          </task>
+        </tasks>
+      </subcategory>
+    </subcategories>
+  </category>
+  <category name="Familly">
+    <description>Default Category Description</description>
+    <tasks>
+      <task name="dinner" priority="High">
+        <description>ceafa de porc</description>
+        <deadline>2023-05-02</deadline>
+      </task>
+    </tasks>
+  </category>
+</categories>

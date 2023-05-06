@@ -1,0 +1,33 @@
+﻿<Window x:Class="TaskManager.View.FindTaskView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TaskManager.View"
+        xmlns:vm="clr-namespace:TaskManager.ViewModel"
+        mc:Ignorable="d"
+        Title="FindTaskView" Height="260" Width="270">
+
+    <Window.DataContext>
+        <vm:TaskListTreeViewModel/>
+    </Window.DataContext>
+
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Margin="120,36,0,0" TextWrapping="Wrap" Text="{Binding SearchText}" VerticalAlignment="Top" Width="120"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,36,0,0" TextWrapping="Wrap" Text="Search Task Name :" VerticalAlignment="Top"/>
+        <Button Content="Search" HorizontalAlignment="Left" Margin="61,69,0,0" VerticalAlignment="Top" Width="119" Click="Button_Click"/>
+        <ListBox Name="lbTasks" SelectionMode="Single" 
+                 ItemsSource="{Binding SearchedTasks}"
+                 Width="230" Height="100"
+                 HorizontalAlignment="Center" Margin="0,117,0,17" SelectionChanged="lbTasks_SelectionChanged">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <WrapPanel>
+                        <TextBox Name="txtNume"  Text="{Binding TaskName}" Height="31" Width="120"/>
+                        <TextBox Name="txtDescriere" Text="{Binding TaskDescription}" Height="31" Width="120"/>
+                    </WrapPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </Grid>
+</Window>
